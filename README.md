@@ -11,4 +11,4 @@ Esta es una aplicación web desarrollada con **React** y **Vite** que permite co
 
 ## 🔗 Demo Online
 Puedes ver el proyecto funcionando aquí:
-👉 [**Ver en Netlify**]((https://admirable-bubblegum-cbca3d.netlify.app/))
+👉 [**Ver en Netlify**](https://admirable-bubblegum-cbca3d.netlify.app/)
